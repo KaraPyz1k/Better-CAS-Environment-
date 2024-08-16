@@ -5,92 +5,110 @@
 			<Original>Live Feed</Original>
 			<Chinese>觀看畫面</Chinese>
 			<Chinesesimp>观看画面</Chinesesimp>
+			<Russian>Прямая трансляция</Russian>
 		</Key>
 		<Key ID="STR_BCE_Control_Turret">
 			<Original>Control Turret</Original>
 			<Chinese>遙控砲台</Chinese>
 			<Chinesesimp>遥控炮台</Chinesesimp>
+			<Russian>Управление турелью</Russian>
 		</Key>
 		<Key ID="STR_BCE_Description">
 			<Original>Description : </Original>
 			<Chinese>簡易描述 : </Chinese>
 			<Chinesesimp>简易描述 : </Chinesesimp>
+			<Russian>Описание : </Russian>
 		</Key>
 		<Key ID="STR_BCE_more_Details">
 			<Original>more details</Original>
 			<Chinese>更多細項</Chinese>
 			<Chinesesimp>更多细项</Chinesesimp>
+			<Russian>больше деталей</Russian>
 		</Key>
 		<Key ID="STR_BCE_Default">
 			<Original>Default</Original>
 			<Chinese>預設</Chinese>
 			<Chinesesimp>默认</Chinesesimp>
+			<Russian>По умолчанию</Russian>
 		</Key>
 		<Key ID="STR_BCE_SendData">
 			<Original>Send Data</Original>
 			<Chinese>送出</Chinese>
 			<Chinesesimp>发送数据</Chinesesimp>
+			<Russian>Отправить данные</Russian>
 		</Key>
 		<Key ID="STR_BCE_Enter">
 			<Original>Enter</Original>
 			<Chinese>輸入</Chinese>
 			<Chinesesimp>输入</Chinesesimp>
+			<Russian>Внести</Russian>
 		</Key>
 		<Key ID="STR_BCE_Abort_Task">
 			<Original>Abort Task</Original>
 			<Chinese>中止任務</Chinese>
 			<Chinesesimp>中止任务</Chinesesimp>
+			<Russian>Отменить задачу</Russian>
 		</Key>
 		<Key ID="STR_BCE_ClearAll">
 			<Original>Clear All</Original>
 			<Chinese>全部清除</Chinese>
 			<Chinesesimp>清除全部</Chinesesimp>
+			<Russian>Очистить все</Russian>
 		</Key>
 		<Key ID="STR_BCE_ClearTaskInfo">
 			<Original>Clear</Original>
 			<Chinese>清除</Chinese>
 			<Chinesesimp>清除</Chinesesimp>
+			<Russian>Очистить</Russian>
 		</Key>
 		<Key ID="STR_BCE_New_Task">
 			<Original>New Task</Original>
 			<Chinese>創建新任務</Chinese>
 			<Chinesesimp>创建新任务</Chinesesimp>
+			<Russian>Новая задача</Russian>
 		</Key>
 		<Key ID="STR_BCE_DoubleClick">
 			<Original>DoubleClick</Original>
 			<Chinese>雙擊左鍵</Chinese>
 			<Chinesesimp>双击左键</Chinesesimp>
+			<Russian>Двойное нажатие</Russian>
 		</Key>
 		<Key ID="STR_BCE_clickx2">
 			<Original>click x2</Original>
 			<Chinese>點擊 x2</Chinese>
 			<Chinesesimp>点击 x2</Chinesesimp>
+			<Russian>Нажать 2х</Russian>
 		</Key>
 		<Key ID="STR_BCE_NextTurret">
 			<Original>Next Turret</Original>
 			<Chinese>下個砲塔</Chinese>
 			<Chinesesimp>下一个炮塔</Chinesesimp>
+			<Russian>Следующая турель</Russian>
 		</Key>
 
 		<Key ID="STR_BCE_Widgets_VIC">
 			<Original>VIC</Original>
 			<Chinese>載具</Chinese>
 			<Chinesesimp>载具</Chinesesimp>
+			<Russian>ТРС</Russian>
 		</Key>
 		<Key ID="STR_BCE_Widgets_WPN">
 			<Original>WPN</Original>
 			<Chinese>武器</Chinese>
 			<Chinesesimp>武器</Chinesesimp>
+			<Russian>ОРЖ</Russian>
 		</Key>
 		<Key ID="STR_BCE_Widgets_TASK">
 			<Original>TASK</Original>
 			<Chinese>任務</Chinese>
 			<Chinesesimp>任务</Chinesesimp>
+			<Russian>ЗАДАЧА</Russian>
 		</Key>
 		<Key ID="STR_BCE_With">
 			<Original>with</Original>
 			<Chinese>標記</Chinese>
 			<Chinesesimp>标记</Chinesesimp>
+			<Russian>с</Russian>
 		</Key>
 
 		
@@ -98,31 +116,37 @@
 			<Original>Vic Info</Original>
 			<Chinese>載具資訊</Chinese>
 			<Chinesesimp>载具信息</Chinesesimp>
+			<Russian>Информация о транспорте</Russian>
 		</Key>
 		<Key ID="STR_BCE_Widgets_TIP_WPN">
 			<Original>Weapon Info</Original>
 			<Chinese>武器資訊</Chinese>
 			<Chinesesimp>武器信息</Chinesesimp>
+			<Russian>Информация об оружии</Russian>
 		</Key>
 		<Key ID="STR_BCE_Widgets_TIP_TASK">
 			<Original>Current Task Info</Original>
 			<Chinese>目前任務資訊</Chinese>
 			<Chinesesimp>当前任务信息</Chinesesimp>
+			<Russian>Данная задача</Russian>
 		</Key>
 		<Key ID="STR_BCE_DataSent">
 			<Original>Data Sent.</Original>
 			<Chinese>已送出</Chinese>
 			<Chinesesimp>数据已发送。</Chinesesimp>
+			<Russian>Данные отправлены</Russian>
 		</Key>
 		<Key ID="STR_BCE_Error_InputVal">
 			<Original>Fail...  Check the input values.</Original>
 			<Chinese>失敗...檢查輸入資料。</Chinese>
 			<Chinesesimp>失败...检查输入值。</Chinesesimp>
+			<Russian>Ошибка... Проверьте внесённые данные</Russian>
 		</Key>
 		<Key ID="STR_BCE_Error_Vehicle">
 			<Original>Fail...  Check selected Aircraft.</Original>
 			<Chinese>失敗...檢查所選的載具。</Chinese>
 			<Chinesesimp>失败...检查所选飞行器。</Chinesesimp>
+			<Russian>Ошибка... Проверьте выбранное судно</Russian>
 		</Key>
 		<Key ID="STR_BCE_Error_EngineOff">
 			<Original>Fail... The engine is not running.</Original>
