@@ -152,68 +152,81 @@
 			<Original>Fail... The engine is not running.</Original>
 			<Chinese>失敗...引擎未啟動。</Chinese>
 			<Chinesesimp>失败...引擎未启动。</Chinesesimp>
+			<Russian>Ошибка... Двигатель выключен</Russian>
 		</Key>
 		<Key ID="STR_BCE_Error_Task5">
 			<Original>Check 1, 2, 3, and selected Aircraft.</Original>
 			<Chinese>檢查 第1、2、3 和選定的飛機。</Chinese>
 			<Chinesesimp>检查 1、2、3 和所选飞机。</Chinesesimp>
+			<Russian>Преверьте 1, 2, 3, и выберите воздушное судно</Russian>
 		</Key>
 		<Key ID="STR_BCE_Error_Task9">
 			<Original>Check “Game Plan”, 6, 8, 9, and selected Aircraft.</Original>
 			<Chinese>檢查 “Game Plan”、第 6、8、9 和選定的飛機。</Chinese>
 			<Chinesesimp>检查“Game Plan”、6、8、9 和所选飞机。</Chinesesimp>
+			<Russian>Проверьте "Игровой План", 6, 8, 9, и выберите воздушное судно</Russian>
 		</Key>
 		
 		<Key ID="STR_BCE_Error_ControlTurret">
 			<Original>Unable to Control this Turret.</Original>
 			<Chinese>無法控制此砲塔。</Chinese>
 			<Chinesesimp>无法控制此炮塔。</Chinesesimp>
+			<Russian>Невозможно Управлять данной Турелью</Russian>
 		</Key>
 		<Key ID="STR_BCE_Error_TaskSupport">
 			<Original>Current task is not supported.</Original>
 			<Chinese>不支援當前任務。</Chinese>
 			<Chinesesimp>不支持当前任务。</Chinesesimp>
+			<Russian>Данная задаче не поддерживается</Russian>
 		</Key>
 		<Key ID="STR_BCE_Error_Same_TG_FRD">
 			<Original>Target position can't be the same.</Original>
 			<Chinese>目標不能在相同位置。</Chinese>
 			<Chinesesimp>目标不能在相同位置。</Chinesesimp>
+			<Russian>Позиция цели не может быть такой же</Russian>
 		</Key>
 		<Key ID="STR_BCE_Error_Unavailable">
 			<Original>This Aircraft is Unavailable for a New Task.</Original>
 			<Chinese>這架飛機無法執行新任務。</Chinese>
 			<Chinesesimp>这架飞机无法执行新任务。</Chinesesimp>
+			<Russian>Данное судно недоступно для Новых Заданий</Russian>
 		</Key>
 		<Key ID="STR_BCE_ATAK_No_Info_Error">
 			<Original>Check Target Position is being filed.</Original>
 			<Chinese>檢查是否填寫目標位置。</Chinese>
 			<Chinesesimp>检查是否填写目标位置。</Chinesesimp>
+			<Russian>Проверьте заполнено ли поле Позиции цели</Russian>
 		</Key>
 		
 		<Key ID="STR_BCE_DESC_Custom">
 			<Original>Custom Description</Original>
 			<Chinese>自定義描述</Chinese>
 			<Chinesesimp>自定义描述</Chinesesimp>
+			<Russian>Свое описание</Russian>
 		</Key>
 		<Key ID="STR_BCE_DESC_Open">
 			<Original>In the open</Original>
 			<Chinese>位於空曠處</Chinese>
 			<Chinesesimp>位于空旷处</Chinesesimp>
+			<Russian>Без укрытия</Russian>
 		</Key>
 		<Key ID="STR_BCE_DESC_Cover">
 			<Original>Under Cover</Original>
 			<Chinese>掩體中</Chinese>
 			<Chinesesimp>掩体中</Chinesesimp>
+			<Russian>За укрытием</Russian>
 		</Key>
 		<Key ID="STR_BCE_DESC_treeline">
 			<Original>In treeline</Original>
 			<Chinese>在樹林線中</Chinese>
 			<Chinesesimp>在树林线中</Chinesesimp>
+			<Russian>В лесополосе</Russian>
 		</Key>
 		<Key ID="STR_BCE_DESC_Hardstructure">
 			<Original>Hardstructure</Original>
 			<Chinese>堅固建築</Chinese>
 			<Chinesesimp>坚固建筑</Chinesesimp>
+			<Russian>Укрепление</Russian>
 		</Key>
 		
 		
@@ -221,43 +234,51 @@
 			<Original>Show Info</Original>
 			<Chinese>顯示資訊</Chinese>
 			<Chinesesimp>显示信息</Chinesesimp>
+			<Russian>Показать информацию</Russian>
 		</Key>
 		<Key ID="STR_BCE_Task_Type">
 			<Original>Task Type</Original>
 			<Chinese>任務類型</Chinese>
 			<Chinesesimp>任务类型</Chinesesimp>
+			<Russian>Тип Задачи</Russian>
 		</Key>
 		<Key ID="STR_BCE_Caller">
 			<Original>Caller</Original>
 			<Chinese>呼叫者</Chinese>
 			<Chinesesimp>呼叫者</Chinesesimp>
+			<Russian>Вызывающий</Russian>
 		</Key>
 		<Key ID="STR_BCE_To_AC">
 			<Original>To</Original>
 			<Chinese>給</Chinese>
 			<Chinesesimp>给</Chinesesimp>
+			<Russian>для</Russian>
 		</Key>
 		<Key ID="STR_BCE_Detail">
 			<Original>Detail</Original>
 			<Chinese>描述</Chinese>
 			<Chinesesimp>描述</Chinesesimp>
+			<Russian>Детали</Russian>
 		</Key>
 		
 		<Key ID="STR_BCE_Toggle_FOV">
 			<Original>Toggle FOV of vehicle turrets</Original>
 			<Chinese>開關車輛炮塔FOV</Chinese>
 			<Chinesesimp>开关车辆炮塔FOV</Chinesesimp>
+			<Russian>Включить вид с турели судна</Russian>
 		</Key>
 		
 		<Key ID="STR_BCE_CAS_Task">
 			<Original>CAS Task</Original>
 			<Chinese>CAS 任務</Chinese>
 			<Chinesesimp>CAS 任务</Chinesesimp>
+			<Russian>Задача воздушной поддержки</Russian>
 		</Key>
 		<Key ID="STR_BCE_Toggle_Task">
 			<Original>Toggle current Task infos</Original>
 			<Chinese>開關目前任務信息</Chinese>
 			<Chinesesimp>开关当前任务信息</Chinesesimp>
+			<Russian>Передать инфомацию данной задачи</Russian>
 		</Key>
 
 		
@@ -266,86 +287,103 @@
 			<Original>Type</Original>
 			<Chinese>類型</Chinese>
 			<Chinesesimp>类型</Chinesesimp>
+			<Russian>Тип</Russian>
 		</Key>
 		<Key ID="STR_BCE_Guidance">
 			<Original>Guidance</Original>
 			<Chinese>導引方式</Chinese>
 			<Chinesesimp>导引方式</Chinesesimp>
+			<Russian>Наведение</Russian>
 		</Key>
 		<Key ID="STR_BCE_Weight">
 			<Original>Weight</Original>
 			<Chinese>重量</Chinese>
 			<Chinesesimp>重量</Chinesesimp>
+			<Russian>Вес</Russian>
 		</Key>
 		<Key ID="STR_BCE_Max_Range">
 			<Original>Max Range</Original>
 			<Chinese>射程距離</Chinese>
 			<Chinesesimp>射程距离</Chinesesimp>
+			<Russian>Максимальная дальность</Russian>
 		</Key>
 		<Key ID="STR_BCE_Warhead">
 			<Original>Warhead</Original>
 			<Chinese>彈頭</Chinese>
 			<Chinesesimp>弹头</Chinesesimp>
+			<Russian>Боеголовка</Russian>
 		</Key>
 		<Key ID="STR_BCE_Classified">
 			<Original>Classified</Original>
 			<Chinese>機密</Chinese>
 			<Chinesesimp>机密</Chinesesimp>
+			<Russian>Засекречено</Russian>
 		</Key>
 		<Key ID="STR_BCE_Cost">
 			<Original>Cost</Original>
 			<Chinese>造價</Chinese>
 			<Chinesesimp>造价</Chinesesimp>
+			<Russian>Стоимость</Russian>
 		</Key>
 		<Key ID="STR_BCE_Payload">
 			<Original>Payload</Original>
 			<Chinese>裝載內容</Chinese>
 			<Chinesesimp>载载内容</Chinesesimp>
+			<Russian>Количество</Russian>
 		</Key>
 		<Key ID="STR_BCE_None">
 			<Original>None</Original>
 			<Chinese>無</Chinese>
 			<Chinesesimp>无</Chinesesimp>
+			<Russian>Пусто</Russian>
 		</Key>
 		<Key ID="STR_BCE_Function">
 			<Original>Function</Original>
 			<Chinese>功能</Chinese>
 			<Chinesesimp>功能</Chinesesimp>
+			<Russian>Функции</Russian>
 		</Key>
 		<Key ID="STR_BCE_Power_Requirements">
 			<Original>Power Requirements</Original>
 			<Chinese>動力來源</Chinese>
 			<Chinesesimp>动力来源</Chinesesimp>
+			<Russian>Требование Питания</Russian>
 		</Key>
 		<Key ID="STR_BCE_No_Info">
 			<Original>No Info...</Original>
 			<Chinese>無資訊...</Chinese>
 			<Chinesesimp>无信息...</Chinesesimp>
+			<Russian>Нет информции</Russian>
 		</Key>
 		<Key ID="STR_BCE_Cannon">
 			<Original>Cannon</Original>
 			<Chinese>機砲/大砲</Chinese>
 			<Chinesesimp>机炮/大炮</Chinesesimp>
+			<Russian>Пушка</Russian>
 		</Key>
 		<Key ID="STR_BCE_Bomb">
 			<Original>Bomb</Original>
 			<Chinese>炸彈</Chinese>
 			<Chinesesimp>炸弹</Chinesesimp>
+			<Russian>Бомба</Russian>
 		</Key>
 		<Key ID="STR_BCE_Gun">
 			<Original>Gun</Original>
 			<Chinese>機槍</Chinese>
 			<Chinesesimp>机枪</Chinesesimp>
+			<Russian>Оружие</Russian>
 		</Key>
 		<Key ID="STR_BCE_Rocket">
 			<Original>Rocket</Original>
 			<Chinese>火箭</Chinese>
 			<Chinesesimp>火箭</Chinesesimp>
+			<Russian>Ракета</Russian>
 		</Key>
 		<Key ID="STR_BCE_Missile">
 			<Original>Missile</Original>
 			<Chinese>導彈</Chinese>
 			<Chinesesimp>导弹</Chinesesimp>
+			<Russian>Ракета</Russian>
 		</Key>
 		
 		
@@ -353,119 +391,142 @@
 			<Original>Laser</Original>
 			<Chinese>雷射</Chinese>
 			<Chinesesimp>激光</Chinesesimp>
+			<Russian>Лазер</Russian>
 		</Key>
 		<Key ID="STR_BCE_Data_L">
 			<Original>Data-L</Original>
 			<Chinese>資料鏈</Chinese>
 			<Chinesesimp>数据链</Chinesesimp>
+			<Russian>Информация-Л</Russian>
 		</Key>
 		<Key ID="STR_BCE_IR">
 			<Original>IR</Original>
 			<Chinese>紅外線</Chinese>
 			<Chinesesimp>红外线</Chinesesimp>
+			<Russian>Инфракрасное</Russian>
 		</Key>
 		<Key ID="STR_BCE_Active_Rad">
 			<Original>Active-Rad</Original>
 			<Chinese>主動雷達</Chinese>
 			<Chinesesimp>主动雷达</Chinesesimp>
+			<Russian>Активный-Радар</Russian>
 		</Key>
 		<Key ID="STR_BCE_Radar">
 			<Original>Radar</Original>
 			<Chinese>雷達</Chinese>
 			<Chinesesimp>雷达</Chinesesimp>
+			<Russian>Радар</Russian>
 		</Key>
 		<Key ID="STR_BCE_Pass_Rad">
 			<Original>Pass-Rad</Original>
 			<Chinese>被動雷達</Chinese>
 			<Chinesesimp>被动雷达</Chinesesimp>
+			<Russian>Пассивный-Радар</Russian>
 		</Key>
 		<Key ID="STR_BCE_Anti_Rad">
 			<Original>Anti-Rad</Original>
 			<Chinese>反輻射</Chinese>
 			<Chinesesimp>反辐射</Chinesesimp>
+			<Russian>Противорадарный</Russian>
 		</Key>
 		<Key ID="STR_BCE_SwitchList">
 			<Original>Switch List</Original>
 			<Chinese>切換列表</Chinese>
 			<Chinesesimp>切换列表</Chinesesimp>
+			<Russian>Сменить лист</Russian>
 		</Key>
 		<Key ID="STR_BCE_No_Signal">
 			<Original>No Signal...</Original>
 			<Chinese>無信號...</Chinese>
 			<Chinesesimp>无信号...</Chinesesimp>
+			<Russian>Нет сигнала...</Russian>
 		</Key>
 		<Key ID="STR_BCE_AsJTAC">
 			<Original>Assign JTAC</Original>
 			<Chinese>任命JTAC身分</Chinese>
 			<Chinesesimp>指派JTAC</Chinesesimp>
+			<Russian>Назначить наводчика</Russian>
 		</Key>
 		<Key ID="STR_BCE_UnAsJTAC">
 			<Original>UnAssign JTAC</Original>
 			<Chinese>取消JTAC身分</Chinese>
 			<Chinesesimp>取消指派JTAC</Chinesesimp>
+			<Russian>Убрать наводчика</Russian>
 		</Key>
 		<Key ID="STR_BCE_ReceivedHint_Title">
 			<Original>Task Received</Original>
 			<Chinese>新任務</Chinese>
 			<Chinesesimp>任务接收</Chinesesimp>
+			<Russian>Задача Получена</Russian>
 		</Key>
 		<Key ID="STR_BCE_ReceivedHint_DESC">
 			<Original>You have received a New Task</Original>
 			<Chinese>已收到新任務</Chinese>
 			<Chinesesimp>您收到了新任务</Chinesesimp>
+			<Russian>Вы получили Новую Задачу</Russian>
 		</Key>
 
 		<Key ID="STR_BCE_Task_Receiver">
 			<Original>Task Receiver</Original>
 			<Chinese>任務接收器</Chinese>
 			<Chinesesimp>任务接收器</Chinesesimp>
+			<Russian>Получатель Задачи</Russian>
 		</Key>
 		
 		<Key ID="STR_BCE_Map_Tit_illumination">
 			<Original>&lt;img image='\a3\3den\data\displays\display3den\toolbar\flashlight_off_ca.paa' align='left' size='0.8' /&gt; Map Illumination</Original>
 			<Chinese>&lt;img image='\a3\3den\data\displays\display3den\toolbar\flashlight_off_ca.paa' align='left' size='0.8' /&gt; 地圖照明</Chinese>
 			<Chinesesimp>&lt;img image='\a3\3den\data\displays\display3den\toolbar\flashlight_off_ca.paa' align='left' size='0.8' /&gt; 地图照明</Chinesesimp>
+			<Russian>&lt;img image='\a3\3den\data\displays\display3den\toolbar\flashlight_off_ca.paa' align='left' size='0.8' /&gt; Подсветка Карты</Russian>
 		</Key>
 		<Key ID="STR_BCE_Map_illumination">
 			<Original>Toggle Map Flash Light</Original>
 			<Chinese>開關地圖照明</Chinese>
 			<Chinesesimp>开关地图照明</Chinesesimp>
+			<Russian>Включить фонарик карты</Russian>
 		</Key>
 		<Key ID="STR_BCE_Map_No_FlashLight">
 			<Original>No FlashLight Available, Check your inventory.</Original>
 			<Chinese>沒有手電筒可用，檢查您的裝備。</Chinese>
 			<Chinesesimp>没有手电筒可用，检查您的装备。</Chinesesimp>
+			<Russian>Фонарика нет, Проверьте свой инвентарь</Russian>
 		</Key>
 		<Key ID="STR_BCE_Ctrl_R_Click">
 			<Original>"Ctrl + R Click"</Original>
 			<Chinese>"Ctrl + 右鍵"</Chinese>
 			<Chinesesimp>"Ctrl + 右键"</Chinesesimp>
+			<Russian>"Ctrl + R Click"</Russian>
 		</Key>
 		
 		<Key ID="STR_BCE_Widget_WP">
 			<Original>Waypoints of Selected Vehicle</Original>
 			<Chinese>所選載具的路徑點</Chinese>
 			<Chinesesimp>所选载具的路径点</Chinesesimp>
+			<Russian>Точки маршрута выбранного ТС</Russian>
 		</Key>
 		<Key ID="STR_BCE_Widget_AV">
 			<Original>Icon of Other Vehicles</Original>
 			<Chinese>其他載具的圖標</Chinese>
 			<Chinesesimp>其他载具的图标</Chinesesimp>
+			<Russian>Иконки другик ТС</Russian>
 		</Key>
 		<Key ID="STR_BCE_Widget_TG">
 			<Original>POS of TGP Pointing</Original>
 			<Chinese>TGP 指向的位置</Chinese>
 			<Chinesesimp>TGP 指向的位置</Chinesesimp>
+			<Russian>Позиция направления турели</Russian>
 		</Key>
 		<Key ID="STR_BCE_Widget_COR">
 			<Original>Icon Color</Original>
 			<Chinese>圖示顏色</Chinese>
 			<Chinesesimp>图示颜色</Chinesesimp>
+			<Russian>Цвет иконки</Russian>
 		</Key>
 		<Key ID="STR_BCE_Widget_BG">
 			<Original>Map Brightness</Original>
 			<Chinese>地圖亮度</Chinese>
 			<Chinesesimp>地图亮度</Chinesesimp>
+			<Russian>Яркость карты</Russian>
 		</Key>
 
 		
@@ -474,106 +535,127 @@
 			<Original>Control Type:</Original>
 			<Chinese>控制類型:</Chinese>
 			<Chinesesimp>控制类型:</Chinesesimp>
+			<Russian>Тип управления:</Russian>
 		</Key>
 		<Key ID="STR_BCE_AttackType_BNT">
 			<Original>Attack Type:</Original>
 			<Chinese>攻擊方式:</Chinese>
 			<Chinesesimp>攻击方式:</Chinesesimp>
+			<Russian>Тип атаки:</Russian>
 		</Key>
 		<Key ID="STR_BCE_OrdnanceREQ_BNT">
 			<Original>Request Ordnance:</Original>
 			<Chinese>彈藥請求:</Chinese>
 			<Chinesesimp>请求弹药:</Chinesesimp>
+			<Russian>Запросить боеприпасы</Russian>
 		</Key>
 		<Key ID="STR_BCE_MarkWith">
 			<Original>Mark with...</Original>
 			<Chinese>輸入標記方式...</Chinese>
 			<Chinesesimp>输入标记方式...</Chinesesimp>
+			<Russian>Пометить при помощи...</Russian>
 		</Key>
 		<Key ID="STR_BCE_SelectMarker">
 			<Original>Select Marker</Original>
 			<Chinese>選擇地圖標記</Chinese>
 			<Chinesesimp>选择地图标记</Chinesesimp>
+			<Russian>Выбрать маркер</Russian>
 		</Key>
 		<Key ID="STR_BCE_Bearing_ENT">
 			<Original>Bearing...</Original>
 			<Chinese>輸入方位...</Chinese>
 			<Chinesesimp>输入方位...</Chinesesimp>
+			<Russian>Направление...</Russian>
 		</Key>
 		<Key ID="STR_BCE_AddTask">
 			<Original>Add Task</Original>
 			<Chinese>添加任務</Chinese>
 			<Chinesesimp>添加任务</Chinesesimp>
+			<Russian>Добавить задачу</Russian>
 		</Key>
 		<Key ID="STR_BCE_Brevity_Codes">
 			<Original>Common Brevity Codes</Original>
 			<Chinese>常見 簡短代號</Chinese>
 			<Chinesesimp>常见 简短代码</Chinesesimp>
+			<Russian>Общие коды краткости</Russian>
 		</Key>
 		<Key ID="STR_BCE_TL_Check_List">
 			<Original>Check List:</Original>
 			<Chinese>武器清單:</Chinese>
 			<Chinesesimp>武器清单:</Chinesesimp>
+			<Russian>Чеклист:</Russian>
 		</Key>
 		<Key ID="STR_BCE_TL_Create_Task">
 			<Original>Create Task:</Original>
 			<Chinese>建立任務:</Chinese>
 			<Chinesesimp>建立任务:</Chinesesimp>
+			<Russian>Создать задачу:</Russian>
 		</Key>
 		<Key ID="STR_BCE_Tit_Map_marker">
 			<Original>Map Marker</Original>
 			<Chinese>地圖標記</Chinese>
 			<Chinesesimp>地图标记</Chinesesimp>
+			<Russian>Маркер на карте</Russian>
 		</Key>
 		<Key ID="STR_BCE_Tit_BFT_marker">
 			<Original>“BFT” Marker</Original>
 			<Chinese>“BFT” 標記</Chinese>
 			<Chinesesimp>“BFT” 标记</Chinesesimp>
+			<Russian>"БФТ" Маркер</Russian>
 		</Key>
 		<Key ID="STR_BCE_Tit_Click_Map">
 			<Original>Click Map</Original>
 			<Chinese>點擊地圖</Chinese>
 			<Chinesesimp>点击地图</Chinesesimp>
+			<Russian>Нажать на карту</Russian>
 		</Key>
 		<Key ID="STR_BCE_Tip_Click_Map">
 			<Original>Click Map “Alt + LMB”</Original>
 			<Chinese>點擊地圖 “Alt + 左鍵”</Chinese>
 			<Chinesesimp>点击地图 “Alt + 左键”</Chinesesimp>
+			<Russian>Нажать на карту "Altт+ЛКМ"</Russian>
 		</Key>
 		<Key ID="STR_BCE_Tit_OverHead">
 			<Original>OverHead</Original>
 			<Chinese>目前位置</Chinese>
 			<Chinesesimp>当前位置</Chinesesimp>
+			<Russian>Над головой</Russian>
 		</Key>
 		<Key ID="STR_BCE_Tit_Azimuth">
 			<Original>Azimuth</Original>
 			<Chinese>方位角</Chinese>
 			<Chinesesimp>方位角</Chinesesimp>
+			<Russian>Азимут</Russian>
 		</Key>
 		<Key ID="STR_BCE_Tit_Bearing">
 			<Original>Bearing</Original>
 			<Chinese>方位</Chinese>
 			<Chinesesimp>方位</Chinesesimp>
+			<Russian>Направление</Russian>
 		</Key>
 		<Key ID="STR_BCE_tip_Attack_Range">
 			<Original>Attack Range</Original>
 			<Chinese>攻擊距離</Chinese>
 			<Chinesesimp>攻击距离</Chinesesimp>
+			<Russian>Дальность Атаки</Russian>
 		</Key>
 		<Key ID="STR_BCE_tip_Round_Count">
 			<Original>Round Count</Original>
 			<Chinese>多少發</Chinese>
 			<Chinesesimp>发数</Chinesesimp>
+			<Russian>Количество кругов</Russian>
 		</Key>
 		<Key ID="STR_BCE_tip_Attack_Height">
 			<Original>Attack Height ASL (m)</Original>
 			<Chinese>攻擊高度 海平面(m)</Chinese>
 			<Chinesesimp>攻击高度 海平面 (米)</Chinesesimp>
+			<Russian>Высота атаки (м)</Russian>
 		</Key>
 		<Key ID="STR_BCE_tip_ShowResult">
 			<Original>This shows the input result</Original>
 			<Chinese>這顯示了輸入結果</Chinese>
 			<Chinesesimp>这显示了输入结果</Chinesesimp>
+			<Russian>Это показывает результата введения</Russian>
 		</Key>
 		
 		
@@ -581,22 +663,26 @@
 			<Original>Friendly forces are very close to the target, Range may vary depends on the ordnance or ROE.</Original>
 			<Chinese>友軍部隊非常接近目標，距離可能會根據彈種或交戰規則而改變。</Chinese>
 			<Chinesesimp>友军部队非常接近目标，距离可能会根据弹种或交战规则而改变。</Chinesesimp>
+			<Russian>Дружеские войска очень близко к цели, Дальность может варьироваться в зависимости от боеприпаса или ПБД.</Russian>
 		</Key>
 		
 		<Key ID="STR_BCE_BVTITLE_Weapon">
 			<Original>Weapon :</Original>
 			<Chinese>武器 呼號 :</Chinese>
 			<Chinesesimp>武器 呼号 :</Chinesesimp>
+			<Russian>Оружие :</Russian>
 		</Key>
 		<Key ID="STR_BCE_BVTITLE_Task">
 			<Original>Task :</Original>
 			<Chinese>任務 呼號 :</Chinese>
 			<Chinesesimp>任务 呼号 :</Chinesesimp>
+			<Russian>Задача :%</Russian>
 		</Key>
 		<Key ID="STR_BCE_BVTITLE_Laser">
 			<Original>Laser :</Original>
 			<Chinese>雷射 呼號 :</Chinese>
 			<Chinesesimp>激光 呼号 :</Chinesesimp>
+			<Russian>Лазер :</Russian>
 		</Key>
 		
 		
@@ -604,51 +690,61 @@
 			<Original>Firing cannon.</Original>
 			<Chinese>發射 機炮、大砲。</Chinese>
 			<Chinesesimp>发射 机炮、大炮。</Chinesesimp>
+			<Russian>Стреляю из пушки.</Russian>
 		</Key>
 		<Key ID="STR_BCE_BVT_Rifle">
 			<Original>Launch of A/G missile.</Original>
 			<Chinese>發射 對地(A/G) 導彈。</Chinese>
 			<Chinesesimp>发射 对地(A/G) 导弹。</Chinesesimp>
+			<Russian>Пуск А/Г ракеты</Russian>
 		</Key>
 		<Key ID="STR_BCE_BVT_Pickle">
 			<Original>Release of (Cluster/General-Purpose)bomb.</Original>
 			<Chinese>投擲 (集束/通用) 炸彈。</Chinese>
 			<Chinesesimp>投掷 (集束/通用) 炸弹。</Chinesesimp>
+			<Russian>Пуск (Кластерной/стандартной)бомбы.</Russian>
 		</Key>
 		<Key ID="STR_BCE_BVT_Paveway">
 			<Original>Release of Laser-Guided bomb.</Original>
 			<Chinese>投擲雷射導引炸彈。</Chinese>
 			<Chinesesimp>投掷激光制导炸弹。</Chinesesimp>
+			<Russian>Пуск бомбы с лазерным наведением.</Russian>
 		</Key>
 		<Key ID="STR_BCE_BVT_Ripple">
 			<Original>Release multiple munitions in close succession.</Original>
 			<Chinese>連續短時間內釋放多枚彈藥。</Chinese>
 			<Chinesesimp>连续短时间内释放多枚弹药。</Chinesesimp>
+			<Russian>Пуск нескольких боеприпасов в краткие сроки.</Russian>
 		</Key>
 		<Key ID="STR_BCE_BVT_Winchester">
 			<Original>No ordnance remaining, can be used to against the specific target.</Original>
 			<Chinese>沒有剩餘的彈藥可用於對特定目標。</Chinese>
 			<Chinesesimp>没有剩余的弹药可用于对特定目标。</Chinesesimp>
+			<Russian>Не осталось боеприпасов, которые можно было бы использовать против конкретной цели.</Russian>
 		</Key>
 		<Key ID="STR_BCE_BVT_Splash">
 			<Original>Ammunition impact/target destroyed.</Original>
 			<Chinese>彈藥〝命中/目標摧毀〞。</Chinese>
 			<Chinesesimp>弹药“命中/目标摧毁”。</Chinesesimp>
+			<Russian>Подрыв боеприпаса/цель уничтожена.</Russian>
 		</Key>
 		<Key ID="STR_BCE_BVT_Shack">
 			<Original>Ordnance impact on ground, (Unofficial).</Original>
 			<Chinese>彈藥在地面上的命中。(非官方證實)</Chinese>
 			<Chinesesimp>弹药在地面上的命中。(非官方确认)</Chinesesimp>
+			<Russian>Взрыв снаряда об землю (неофициально).</Russian>
 		</Key>
 		<Key ID="STR_BCE_BVT_Playtime">
 			<Original>How long the aircraft can be on station.</Original>
 			<Chinese>飛機可以在站留多久時間。</Chinese>
 			<Chinesesimp>飞机可以在站留多久时间。</Chinesesimp>
+			<Russian>Как долго судно может находиться на станции.</Russian>
 		</Key>
 		<Key ID="STR_BCE_BVT_Contact">
 			<Original>Sighting of a specified reference point.</Original>
 			<Chinese>目視 指定參照物。</Chinese>
 			<Chinesesimp>目视 指定参照物。</Chinesesimp>
+			<Russian>Наведение на указанную точку.</Russian>
 		</Key>
 		<Key ID="STR_BCE_BVT_Visual">
 			<Original>Sighting of the friendly.opposite “Blind”.</Original>
